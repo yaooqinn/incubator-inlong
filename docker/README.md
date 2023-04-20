@@ -8,7 +8,7 @@ Requirements:
 ```shell
 mvn clean package -DskipTests -Pdocker
 ```
-
+a
 ### Run All Modules
 
 - [docker-compose](docker-compose/README.md)
